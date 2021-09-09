@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/luanpaivab/git-tests/issues"
   },
-  "homepage": "https://github.com/luanpaivab/git-tests#readme"
+  "homepage": "https://github.com/luanpaivab/git-tests#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
